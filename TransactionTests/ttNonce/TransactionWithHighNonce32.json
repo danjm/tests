@@ -29,7 +29,7 @@
             "sender" : "f3dac79274af6e51fbefe9d74a07bdef53d48ea1"
         },
         "_info" : {
-            "comment" : "",
+            "comment" : "Tests that transactions with arbitrarily high nonces, in this case 2 ^ 32, can be valid. See section 4.2 of the Ethereum yellow paper (BYZANTIUM VERSION 69351d5 - 2018-12-10).",
             "filledwith" : "testeth 1.6.0-alpha.0-14+commit.80ca102e",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/TransactionTestsFiller/ttNonce/TransactionWithHighNonce32Filler.json",

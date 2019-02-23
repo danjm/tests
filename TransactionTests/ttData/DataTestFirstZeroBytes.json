@@ -29,7 +29,7 @@
             "sender" : "67719a47cf3e3fe77b89c994d85395ad0f899d86"
         },
         "_info" : {
-            "comment" : "",
+            "comment" : "Verifies that a transaction can be valid regarldess of leadeing zeroes on the data prop of the transaction",
             "filledwith" : "testeth 1.6.0-alpha.0-14+commit.80ca102e",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/TransactionTestsFiller/ttData/DataTestFirstZeroBytesFiller.json",

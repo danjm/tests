@@ -29,7 +29,7 @@
             "sender" : "31352a0efde8bc120397e124e9f837e691b47ded"
         },
         "_info" : {
-            "comment" : "",
+            "comment" : "Verifies validity in cases of high gas limits and extremely high gas prices.",
             "filledwith" : "testeth 1.6.0-alpha.0-14+commit.80ca102e",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/TransactionTestsFiller/ttGasLimit/TransactionWithGasLimitxPriceOverflow2Filler.json",

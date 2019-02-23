@@ -29,7 +29,7 @@
             "sender" : "ec6e295b676f9f40e2025467b8327d88aced542d"
         },
         "_info" : {
-            "comment" : "",
+            "comment" : "Verfies that transactions are not invalidated if the value of gasPrice * gasLimit is so large as to not be representable by an unsigned 256 bit integer.",
             "filledwith" : "testeth 1.6.0-alpha.0-14+commit.80ca102e",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/TransactionTestsFiller/ttGasLimit/TransactionWithGasLimitxPriceOverflowFiller.json",

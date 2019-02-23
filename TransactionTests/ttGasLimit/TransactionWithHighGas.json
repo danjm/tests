@@ -17,7 +17,7 @@
         "Homestead" : {
         },
         "_info" : {
-            "comment" : "",
+            "comment" : "Tests that a transaction with a high and valid gas limit (2 ^ 63 - 1), but with an s value greater than `secp256k1n/2` (see https://github.com/ethereum/EIPs/blob/master/EIPS/eip-2.md), is invalid on all forks after Frontier.",
             "filledwith" : "testeth 1.6.0-alpha.0-14+commit.80ca102e",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/TransactionTestsFiller/ttGasLimit/TransactionWithHighGasFiller.json",

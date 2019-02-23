@@ -29,7 +29,7 @@
             "sender" : "186f6d666993362b46b3b6c626f55903a439cc8d"
         },
         "_info" : {
-            "comment" : "",
+            "comment" : "Verifies that a transaction can be valid regarldess of trailing zeroes on the data prop of the transaction",
             "filledwith" : "testeth 1.6.0-alpha.0-14+commit.80ca102e",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/TransactionTestsFiller/ttData/DataTestLastZeroBytesFiller.json",

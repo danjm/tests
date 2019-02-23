@@ -23,7 +23,7 @@
         "Homestead" : {
         },
         "_info" : {
-            "comment" : "",
+            "comment" : "Tests that a transaction with a high and valid gas limit (2 ^ 63 - 1), but with a v value that is only valid under the EIP-155 rules (https://github.com/ethereum/EIPs/blob/master/EIPS/eip-155.md), is valid on EIP158 (Spurious Dragon) and later and invalid on all prior hardforks.",
             "filledwith" : "testeth 1.6.0-alpha.0-14+commit.80ca102e",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/TransactionTestsFiller/ttGasLimit/TransactionWithHihghGasLimit63m1Filler.json",

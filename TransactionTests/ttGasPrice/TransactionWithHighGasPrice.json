@@ -29,7 +29,7 @@
             "sender" : "37fdbbd4d3b28a4b412d9110dcf73de137e438b9"
         },
         "_info" : {
-            "comment" : "",
+            "comment" : "Tests that the transaction is valid if the gas price is the largest possible unsigned 256 bit integer. See section 4.2 of the Ethereum yellow paper (BYZANTIUM VERSION 69351d5 - 2018-12-10).",
             "filledwith" : "testeth 1.6.0-alpha.0-14+commit.80ca102e",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/TransactionTestsFiller/ttGasPrice/TransactionWithHighGasPriceFiller.json",

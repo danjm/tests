@@ -29,7 +29,7 @@
             "sender" : "e115cf6bb5656786569dd273705242ca72d84bc0"
         },
         "_info" : {
-            "comment" : "",
+            "comment" : "Tests that a transaction with a v value consistent with the original v = 27 and v = 28 rule and an r value in the appropriate range, and with an s value equal to 1, can be invalid. See 'Appendix F. Signing Transactions' of the Ethereum yellow paper (BYZANTIUM VERSION 69351d5 - 2018-12-10).",
             "filledwith" : "testeth 1.6.0-alpha.0-14+commit.80ca102e",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/TransactionTestsFiller/ttRSValue/TransactionWithSvalue1Filler.json",

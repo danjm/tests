@@ -29,7 +29,7 @@
             "sender" : "b284109d8e781949638d995c19f8feba0268191c"
         },
         "_info" : {
-            "comment" : "",
+            "comment" : "Tests that a transaction with an s value equal to secp256k1n/2 can be valid. See 'Appendix F. Signing Transactions' of the Ethereum yellow paper (BYZANTIUM VERSION 69351d5 - 2018-12-10) and https://github.com/ethereum/EIPs/blob/master/EIPS/eip-2.md.",
             "filledwith" : "testeth 1.6.0-alpha.0-14+commit.80ca102e",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/TransactionTestsFiller/ttRSValue/TransactionWithSvalueEqual_c_secp256k1n_x05Filler.json",

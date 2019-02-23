@@ -29,7 +29,7 @@
             "sender" : "cda94a77b8357ff651db2e3828216440c4b732e8"
         },
         "_info" : {
-            "comment" : "",
+            "comment" : "Tests that a transaction will be valid if the gas limit is 2 ^ 63 + 1. Note that such a transaction, although valid according to transaction rules, will fail due to block gas limits. See section 4.2 of the Ethereum yellow paper (BYZANTIUM VERSION 69351d5 - 2018-12-10).",
             "filledwith" : "testeth 1.6.0-alpha.0-14+commit.80ca102e",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/TransactionTestsFiller/ttGasLimit/TransactionWithGasLimitOverflow63_1Filler.json",

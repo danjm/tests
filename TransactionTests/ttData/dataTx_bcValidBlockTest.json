@@ -29,7 +29,7 @@
             "sender" : "db3271a5b88f7bae59660418e25ce5d142f9b080"
         },
         "_info" : {
-            "comment" : "",
+            "comment": "Tests that a transaction that creates a contract by sending to an empty string is valid on homestead or greater when gas limit is sufficient. Note that the homestead hardfork increased the cost of creating a contract from a transaction from 21000 to 53000 (plus the gas cost of data). See https://github.com/ethereum/EIPs/blob/master/EIPS/eip-2.md.",
             "filledwith" : "testeth 1.6.0-alpha.0-14+commit.80ca102e",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/TransactionTestsFiller/ttData/dataTx_bcValidBlockTestFiller.json",

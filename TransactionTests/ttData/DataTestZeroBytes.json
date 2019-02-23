@@ -29,7 +29,7 @@
             "sender" : "61adaba383a740078e3efbddf082be05534e5484"
         },
         "_info" : {
-            "comment" : "",
+            "comment" : "Verifies that transactions can be valid when their data field contains a long string of only zeroes.",
             "filledwith" : "testeth 1.6.0-alpha.0-14+commit.80ca102e",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/TransactionTestsFiller/ttData/DataTestZeroBytesFiller.json",

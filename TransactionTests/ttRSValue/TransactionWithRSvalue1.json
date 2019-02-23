@@ -29,7 +29,7 @@
             "sender" : "98c188f183d4e93ff2bffadd145f39b4a792ed85"
         },
         "_info" : {
-            "comment" : "",
+            "comment" : "Tests that a transaction with a v value consistent with the original v = 27 and v = 28 rule, and with r and s values greater than 0, can be valid. See 'Appendix F. Signing Transactions' of the Ethereum yellow paper (BYZANTIUM VERSION 69351d5 - 2018-12-10).",
             "filledwith" : "testeth 1.6.0-alpha.0-14+commit.80ca102e",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/TransactionTestsFiller/ttRSValue/TransactionWithRSvalue1Filler.json",
