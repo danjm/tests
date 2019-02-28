@@ -15,7 +15,7 @@
         "Homestead" : {
         },
         "_info" : {
-            "comment" : "",
+            "comment" : "Tranasaction is invalid as it fails to meet validity conditions for the v value as defined in either 'Appendix F. Signing Transactions' of the Ethereum yellow paper (BYZANTIUM VERSION 69351d5 - 2018-12-10) or https://github.com/ethereum/EIPs/blob/master/EIPS/eip-155.md. Assume use of chainId associated with mainnet as defined in EIP155.",
             "filledwith" : "testeth 1.6.0-alpha.0-14+commit.80ca102e",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/TransactionTestsFiller/ttVValue/V_wrongvalue_124Filler.json",

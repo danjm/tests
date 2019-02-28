@@ -15,7 +15,7 @@
         "Homestead" : {
         },
         "_info" : {
-            "comment" : "",
+            "comment" : "Transaction is invalid on all hardforks because of the 0 gasLimit (see comment in '../ttGasLimit/NotEnoughGas'), and also violates the s value less than than secp256k1n/2 + 1 rule on hardforks after Frontier (see comment in '../ttRSValue/TransactionWithSvalueLargerThan_c_secp256k1n_x05').",
             "filledwith" : "testeth 1.6.0-alpha.0-14+commit.80ca102e",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/TransactionTestsFiller/ttSignature/EmptyTransactionFiller.json",

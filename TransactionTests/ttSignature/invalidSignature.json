@@ -15,7 +15,7 @@
         "Homestead" : {
         },
         "_info" : {
-            "comment" : "",
+            "comment" : "Transaction is invalid because r and s values are each too high. See comment in '../ttRSValue/TransactionWithSValueTooHigh' and '../ttRSValue/TransactionWithRValueTooHigh'",
             "filledwith" : "testeth 1.6.0-alpha.0-14+commit.80ca102e",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/TransactionTestsFiller/ttSignature/invalidSignatureFiller.json",

@@ -17,7 +17,7 @@
         "Homestead" : {
         },
         "_info" : {
-            "comment" : "",
+            "comment" : "Transaction is invalid on all except Frontier because the s value is too high. See comment in '../ttRSValue/TransactionWithSValueTooHigh'. Other tx params are valid, however.",
             "filledwith" : "testeth 1.6.0-alpha.0-14+commit.80ca102e",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/TransactionTestsFiller/ttVValue/V_overflow64bitSignedFiller.json",

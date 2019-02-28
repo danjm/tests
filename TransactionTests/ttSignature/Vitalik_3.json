@@ -23,7 +23,7 @@
         "Homestead" : {
         },
         "_info" : {
-            "comment" : "",
+            "comment" : "Transaction is valid on EIP158 and greater because of the new conditions for validity for v described in https://github.com/ethereum/EIPs/blob/master/EIPS/eip-155.md",
             "filledwith" : "testeth 1.6.0-alpha.0-14+commit.80ca102e",
             "lllcversion" : "Version: 0.5.0-develop.2018.11.9+commit.9709dfe0.Linux.g++",
             "source" : "src/TransactionTestsFiller/ttSignature/Vitalik_3Filler.json",
